@@ -1,0 +1,654 @@
+[
+  {
+    "year":"Freshman",
+    "quarters":[
+      {
+        "semester":"Fall",
+        "course":[
+          {
+            "Department": "CTW",
+            "Class Number": "1",
+            "Quarter Offered": ["Fall", "Winter", "Spring"],
+            "Units": 4,
+            "Pre-Reqs 1": "",
+            "Pre-Reqs 2": "",
+            "Pre-Reqs 3": "",
+            "Co-Reqs": ""
+          },
+          {
+            "Department": "COEN",
+            "Class Number": "10",
+            "Quarter Offered": ["Fall", "Winter", "Spring"],
+            "Units": 4,
+            "Pre-Reqs 1": "",
+            "Pre-Reqs 2": "",
+            "Pre-Reqs 3": "",
+            "Co-Reqs": "COEN 10L"
+          },
+          {
+            "Department": "COEN",
+            "Class Number": "10L",
+            "Quarter Offered": ["Fall", "Winter", "Spring"],
+            "Units": 1,
+            "Pre-Reqs 1": "",
+            "Pre-Reqs 2": "",
+            "Pre-Reqs 3": "",
+            "Co-Reqs": "COEN 10"
+          },
+          {
+            "Department": "MATH",
+            "Class Number": "11",
+            "Quarter Offered": ["Fall", "Winter", "Spring"],
+            "Units": 4,
+            "Pre-Reqs": "",
+            "Co-Reqs": ""
+          },
+          {
+            "Department": "CHEM",
+            "Class Number": "11",
+            "Quarter Offered": ["Fall", "Winter", "Spring"],
+            "Units": 4,
+            "Pre-Reqs": "",
+            "Co-Reqs": "CHEM 11L"
+          },
+          {
+            "Department": "CHEM",
+            "Class Number": "11L",
+            "Quarter Offered": ["Fall", "Winter", "Spring"],
+            "Units": 1,
+            "Pre-Reqs": "",
+            "Co-Reqs": "CHEM 11"
+          },
+          {
+            "Department": "ENGR",
+            "Class Number": "1",
+            "Quarter Offered": ["Fall", "Winter", "Spring"],
+            "Units": 1,
+            "Pre-Reqs": "",
+            "Co-Reqs": ""
+          }
+        ]
+      },
+      {
+        "semester":"Winter",
+        "course":[
+          {
+            "Department": "CTW",
+            "Class Number": "2",
+            "Quarter Offered": ["Fall", "Winter", "Spring"],
+            "Units": 4,
+            "Pre-Reqs 1": "",
+            "Pre-Reqs 2": "",
+            "Pre-Reqs 3": "",
+            "Co-Reqs": ""
+          },
+          {
+            "Department": "COEN",
+            "Class Number": "11",
+            "Quarter Offered": ["Fall", "Winter", "Spring"],
+            "Units": 4,
+            "Pre-Reqs 1": "",
+            "Pre-Reqs 2": "",
+            "Pre-Reqs 3": "",
+            "Co-Reqs": "COEN 10L"
+          },
+          {
+            "Department": "COEN",
+            "Class Number": "11L",
+            "Quarter Offered": ["Fall", "Winter", "Spring"],
+            "Units": 1,
+            "Pre-Reqs 1": "",
+            "Pre-Reqs 2": "",
+            "Pre-Reqs 3": "",
+            "Co-Reqs": "COEN 10"
+          },
+          {
+            "Department": "MATH",
+            "Class Number": "12",
+            "Quarter Offered": ["Fall", "Winter", "Spring"],
+            "Units": 4,
+            "Pre-Reqs": "",
+            "Co-Reqs": ""
+          },
+          {
+            "Department": "PHYS",
+            "Class Number": "31",
+            "Quarter Offered": ["Winter"],
+            "Units": 4,
+            "Pre-Reqs": "",
+            "Co-Reqs": "PHYS 32L"
+          },
+          {
+            "Department": "PHYS",
+            "Class Number": "31L",
+            "Quarter Offered": ["Winter"],
+            "Units": 4,
+            "Pre-Reqs": "",
+            "Co-Reqs": "PHYS 32"
+          },
+          {
+            "Department": "ENGR",
+            "Class Number": "1L",
+            "Quarter Offered": ["Fall", "Winter", "Spring"],
+            "Units": 1,
+            "Pre-Reqs": "",
+            "Co-Reqs": ""
+          }
+        ]
+      },
+      {
+        "semester":"Spring",
+        "course":[
+          {
+            "Department": "COEN",
+            "Class Number": "19",
+            "Quarter Offered": ["Fall", "Winter", "Spring"],
+            "Units": 4,
+            "Pre-Reqs 1": "",
+            "Pre-Reqs 2": "",
+            "Pre-Reqs 3": "",
+            "Co-Reqs": ""
+          },
+          {
+            "Department": "COEN",
+            "Class Number": "12",
+            "Quarter Offered": ["Fall", "Winter", "Spring"],
+            "Units": 4,
+            "Pre-Reqs 1": "",
+            "Pre-Reqs 2": "",
+            "Pre-Reqs 3": "",
+            "Co-Reqs": "COEN 10L"
+          },
+          {
+            "Department": "COEN",
+            "Class Number": "12L",
+            "Quarter Offered": ["Fall", "Winter", "Spring"],
+            "Units": 1,
+            "Pre-Reqs 1": "",
+            "Pre-Reqs 2": "",
+            "Pre-Reqs 3": "",
+            "Co-Reqs": "COEN 10"
+          },
+          {
+            "Department": "MATH",
+            "Class Number": "13",
+            "Quarter Offered": ["Fall", "Winter", "Spring"],
+            "Units": 4,
+            "Pre-Reqs": "",
+            "Co-Reqs": ""
+          },
+          {
+            "Department": "PHYS",
+            "Class Number": "32",
+            "Quarter Offered": ["Spring"],
+            "Units": 4,
+            "Pre-Reqs": "",
+            "Co-Reqs": "PHYS 32L"
+          },
+          {
+            "Department": "PHYS",
+            "Class Number": "32L",
+            "Quarter Offered": ["Spring"],
+            "Units": 1,
+            "Pre-Reqs": "",
+            "Co-Reqs": "PHYS 32"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year":"Sophomore",
+    "quarters":[
+      {
+        "semester":"Fall",
+        "course":[
+          {
+            "Department": "C&I",
+            "Class Number": "1",
+            "Quarter Offered": ["Fall", "Winter", "Spring"],
+            "Units": 4,
+            "Pre-Reqs 1": "",
+            "Pre-Reqs 2": "",
+            "Pre-Reqs 3": "",
+            "Co-Reqs": ""
+          },
+          {
+            "Department": "MATH",
+            "Class Number": "14",
+            "Quarter Offered": ["Fall", "Winter", "Spring"],
+            "Units": 4,
+            "Pre-Reqs": "",
+            "Co-Reqs": ""
+          },
+          {
+            "Department": "PHYS",
+            "Class Number": "33",
+            "Quarter Offered": ["Fall"],
+            "Units": 4,
+            "Pre-Reqs": "",
+            "Co-Reqs": "PHYS 33L"
+          },
+          {
+            "Department": "PHYS",
+            "Class Number": "33L",
+            "Quarter Offered": ["Fall"],
+            "Units": 1,
+            "Pre-Reqs": "",
+            "Co-Reqs": "PHYS 33"
+          },
+          {
+            "Department": "COEN",
+            "Class Number": "20",
+            "Quarter Offered": ["Fall", "Winter", "Spring"],
+            "Units": 4,
+            "Pre-Reqs 1": "",
+            "Pre-Reqs 2": "",
+            "Pre-Reqs 3": "",
+            "Co-Reqs": "COEN 20L"
+          },
+          {
+            "Department": "COEN",
+            "Class Number": "20L",
+            "Quarter Offered": ["Fall", "Winter", "Spring"],
+            "Units": 1,
+            "Pre-Reqs 1": "",
+            "Pre-Reqs 2": "",
+            "Pre-Reqs 3": "",
+            "Co-Reqs": "COEN 20"
+          }
+        ]
+      },
+      {
+        "semester":"Winter",
+        "course":[
+          {
+            "Department": "C&I",
+            "Class Number": "2",
+            "Quarter Offered": ["Fall", "Winter", "Spring"],
+            "Units": 4,
+            "Pre-Reqs 1": "",
+            "Pre-Reqs 2": "",
+            "Pre-Reqs 3": "",
+            "Co-Reqs": ""
+          },
+          {
+            "Department": "AMTH",
+            "Class Number": "106",
+            "Quarter Offered": ["Fall", "Winter", "Spring"],
+            "Units": 4,
+            "Pre-Reqs": "",
+            "Co-Reqs": ""
+          },
+          {
+            "Department": "AMTH",
+            "Class Number": "108",
+            "Quarter Offered": ["Fall"],
+            "Units": 4,
+            "Pre-Reqs": "",
+            "Co-Reqs": ""
+          },
+          {
+            "Department": "COEN",
+            "Class Number": "21",
+            "Quarter Offered": ["Fall", "Winter", "Spring"],
+            "Units": 1,
+            "Pre-Reqs 1": "",
+            "Pre-Reqs 2": "",
+            "Pre-Reqs 3": "",
+            "Co-Reqs": "COEN 21L"
+          },
+          {
+            "Department": "COEN",
+            "Class Number": "21L",
+            "Quarter Offered": ["Fall", "Winter", "Spring"],
+            "Units": 1,
+            "Pre-Reqs 1": "",
+            "Pre-Reqs 2": "",
+            "Pre-Reqs 3": "",
+            "Co-Reqs": "COEN 21"
+          }
+        ]
+      },
+      {
+        "semester":"Spring",
+        "course":[
+          {
+            "Department": "RTC",
+            "Class Number": "1",
+            "Quarter Offered": ["Fall", "Winter","Spring"],
+            "Units": 4,
+            "Pre-Reqs 1": "",
+            "Pre-Reqs 2": "",
+            "Pre-Reqs 3": "",
+            "Co-Reqs": ""
+          },
+          {
+            "Department": "MATH",
+            "Class Number": "53",
+            "Quarter Offered": ["Fall", "Winter", "Spring"],
+            "Units": 4,
+            "Pre-Reqs": "",
+            "Co-Reqs": ""
+          },
+          {
+            "Department": "ELEN",
+            "Class Number": "50",
+            "Quarter Offered": ["Fall","Winter","Spring"],
+            "Units": 4,
+            "Pre-Reqs": "",
+            "Co-Reqs": "ELEN 50L"
+          },
+          {
+            "Department": "ELEN",
+            "Class Number": "50L",
+            "Quarter Offered": ["Fall","Winter","Spring"],
+            "Units": 4,
+            "Pre-Reqs": "",
+            "Co-Reqs": "ELEN 50"
+          },
+          {
+            "Department": "COEN",
+            "Class Number": "79",
+            "Quarter Offered": ["Fall", "Winter", "Spring"],
+            "Units": 4,
+            "Pre-Reqs 1": "",
+            "Pre-Reqs 2": "",
+            "Pre-Reqs 3": "",
+            "Co-Reqs": "COEN 79L"
+          },
+          {
+            "Department": "COEN",
+            "Class Number": "79L",
+            "Quarter Offered": ["Fall", "Winter", "Spring"],
+            "Units": 1,
+            "Pre-Reqs 1": "",
+            "Pre-Reqs 2": "",
+            "Pre-Reqs 3": "",
+            "Co-Reqs": "COEN 79"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year":"Junior",
+    "quarters":[
+      {
+        "semester":"Fall",
+        "course":[
+          {
+            "Department": "RTC",
+            "Class Number": "2",
+            "Quarter Offered": ["Fall", "Winter","Spring"],
+            "Units": 4,
+            "Pre-Reqs 1": "",
+            "Pre-Reqs 2": "",
+            "Pre-Reqs 3": "",
+            "Co-Reqs": ""
+          },
+          {
+            "Department": "COEN",
+            "Class Number": "171",
+            "Quarter Offered": ["Fall", "Winter", "Spring"],
+            "Units": 4,
+            "Pre-Reqs": "",
+            "Co-Reqs": ""
+          },
+          {
+            "Department": "COEN Elective",
+            "Class Number": "",
+            "Quarter Offered": ["Fall","Winter","Spring"],
+            "Units": 4,
+            "Pre-Reqs": "",
+            "Co-Reqs": "ELEN 50L"
+          },
+          {
+            "Department": "COEN",
+            "Class Number": "146",
+            "Quarter Offered": ["Fall","Winter","Spring"],
+            "Units": 4,
+            "Pre-Reqs": "",
+            "Co-Reqs": "COEN 146L"
+          },
+          {
+            "Department": "COEN",
+            "Class Number": "146L",
+            "Quarter Offered": ["Fall", "Winter", "Spring"],
+            "Units": 1,
+            "Pre-Reqs 1": "",
+            "Pre-Reqs 2": "",
+            "Pre-Reqs 3": "",
+            "Co-Reqs": "COEN 146"
+          }
+        ]
+      },
+      {
+        "semester":"Winter",
+        "course":[
+          {
+            "Department": "RTC",
+            "Class Number": "3",
+            "Quarter Offered": ["Fall", "Winter","Spring"],
+            "Units": 4,
+            "Pre-Reqs 1": "",
+            "Pre-Reqs 2": "",
+            "Pre-Reqs 3": "",
+            "Co-Reqs": ""
+          },
+          {
+            "Department": "ELEN",
+            "Class Number": "153",
+            "Quarter Offered": ["Fall", "Winter", "Spring"],
+            "Units": 4,
+            "Pre-Reqs": "",
+            "Co-Reqs": ""
+          },
+          {
+            "Department": "COEN Elective",
+            "Class Number": "",
+            "Quarter Offered": ["Fall","Winter","Spring"],
+            "Units": 4,
+            "Pre-Reqs": "",
+            "Co-Reqs": "ELEN 50L"
+          },
+          {
+            "Department": "COEN",
+            "Class Number": "177",
+            "Quarter Offered": ["Fall","Winter","Spring"],
+            "Units": 4,
+            "Pre-Reqs": "",
+            "Co-Reqs": "COEN 146L"
+          },
+          {
+            "Department": "COEN",
+            "Class Number": "177L",
+            "Quarter Offered": ["Fall", "Winter", "Spring"],
+            "Units": 1,
+            "Pre-Reqs 1": "",
+            "Pre-Reqs 2": "",
+            "Pre-Reqs 3": "",
+            "Co-Reqs": "COEN 177"
+          }
+        ]
+      },
+      {
+        "semester":"Spring",
+        "course":[
+          {
+            "Department": "Ethics",
+            "Class Number": "",
+            "Quarter Offered": ["Fall", "Winter","Spring"],
+            "Units": 4,
+            "Pre-Reqs 1": "",
+            "Pre-Reqs 2": "",
+            "Pre-Reqs 3": "",
+            "Co-Reqs": ""
+          },
+          {
+            "Department": "ENGL",
+            "Class Number": "181",
+            "Quarter Offered": ["Fall", "Winter","Spring"],
+            "Units": 4,
+            "Pre-Reqs 1": "",
+            "Pre-Reqs 2": "",
+            "Pre-Reqs 3": "",
+            "Co-Reqs": ""
+          },
+          {
+            "Department": "COEN Elective",
+            "Class Number": "",
+            "Quarter Offered": ["Fall","Winter","Spring"],
+            "Units": 4,
+            "Pre-Reqs": "",
+            "Co-Reqs": ""
+          },
+          {
+            "Department": "COEN",
+            "Class Number": "179",
+            "Quarter Offered": ["Fall", "Winter", "Spring"],
+            "Units": 4,
+            "Pre-Reqs 1": "",
+            "Pre-Reqs 2": "",
+            "Pre-Reqs 3": "",
+            "Co-Reqs": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year":"Senior",
+    "quarters":[
+      {
+        "semester":"Fall",
+        "course":[
+          {
+            "Department": "C&I",
+            "Class Number": "3",
+            "Quarter Offered": ["Fall", "Winter","Spring"],
+            "Units": 4,
+            "Pre-Reqs 1": "",
+            "Pre-Reqs 2": "",
+            "Pre-Reqs 3": "",
+            "Co-Reqs": ""
+          },
+          {
+            "Department": "Educational Enrichment Elective",
+            "Class Number": "",
+            "Quarter Offered": ["Fall", "Winter","Spring"],
+            "Units": 4,
+            "Pre-Reqs 1": "",
+            "Pre-Reqs 2": "",
+            "Pre-Reqs 3": "",
+            "Co-Reqs": ""
+          },
+          {
+            "Department": "COEN",
+            "Class Number": "174",
+            "Quarter Offered": ["Fall","Winter","Spring"],
+            "Units": 4,
+            "Pre-Reqs": "",
+            "Co-Reqs": ""
+          },
+          {
+            "Department": "COEN",
+            "Class Number": "194",
+            "Quarter Offered": ["Fall", "Winter", "Spring"],
+            "Units": 2,
+            "Pre-Reqs 1": "",
+            "Pre-Reqs 2": "",
+            "Pre-Reqs 3": "",
+            "Co-Reqs": ""
+          }
+        ]
+      },
+      {
+        "semester":"Winter",
+        "course":[
+          {
+            "Department": "ELSJ/Diversity",
+            "Class Number": "",
+            "Quarter Offered": ["Fall", "Winter", "Spring"],
+            "Units": 4,
+            "Pre-Reqs 1": "",
+            "Pre-Reqs 2": "",
+            "Pre-Reqs 3": "",
+            "Co-Reqs": ""
+          },
+          {
+            "Department": "Educational Enrichment Elective",
+            "Class Number": "",
+            "Quarter Offered": ["Fall", "Winter","Spring"],
+            "Units": 4,
+            "Pre-Reqs 1": "",
+            "Pre-Reqs 2": "",
+            "Pre-Reqs 3": "",
+            "Co-Reqs": ""
+          },
+          {
+            "Department": "COEN",
+            "Class Number": "175",
+            "Quarter Offered": ["Fall","Winter","Spring"],
+            "Units": 4,
+            "Pre-Reqs": "",
+            "Co-Reqs": ""
+          },
+          {
+            "Department": "COEN",
+            "Class Number": "195",
+            "Quarter Offered": ["Fall", "Winter", "Spring"],
+            "Units": 2,
+            "Pre-Reqs 1": "",
+            "Pre-Reqs 2": "",
+            "Pre-Reqs 3": "",
+            "Co-Reqs": ""
+          }
+        ]
+      },
+      {
+        "semester":"Spring",
+        "course":[
+          {
+            "Department": "Educational Enrichment Elective",
+            "Class Number": "",
+            "Quarter Offered": ["Fall", "Winter", "Spring"],
+            "Units": 4,
+            "Pre-Reqs 1": "",
+            "Pre-Reqs 2": "",
+            "Pre-Reqs 3": "",
+            "Co-Reqs": ""
+          },
+          {
+            "Department": "Educational Enrichment Elective",
+            "Class Number": "",
+            "Quarter Offered": ["Fall", "Winter","Spring"],
+            "Units": 4,
+            "Pre-Reqs 1": "",
+            "Pre-Reqs 2": "",
+            "Pre-Reqs 3": "",
+            "Co-Reqs": ""
+          },
+          {
+            "Department": "COEN",
+            "Class Number": "122",
+            "Quarter Offered": ["Fall","Winter","Spring"],
+            "Units": 4,
+            "Pre-Reqs": "",
+            "Co-Reqs": ""
+          },
+          {
+            "Department": "COEN",
+            "Class Number": "196",
+            "Quarter Offered": ["Fall", "Winter", "Spring"],
+            "Units": 2,
+            "Pre-Reqs 1": "",
+            "Pre-Reqs 2": "",
+            "Pre-Reqs 3": "",
+            "Co-Reqs": ""
+          }
+        ]
+      }
+    ]
+  }
+]
